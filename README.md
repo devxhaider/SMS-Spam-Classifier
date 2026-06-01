@@ -1,5 +1,5 @@
 # SMS-Spam-Classifier
-Classifies SMS messages as spam or ham using TF-IDF vectorization and Naive Bayes.
+NLP Text Classification Pipeline of SMS messages as spam or ham using TF-IDF vectorization and Naive Bayes.
 
 ## What it does
 - Loads the UCI SMS Spam dataset (~5500 messages)
